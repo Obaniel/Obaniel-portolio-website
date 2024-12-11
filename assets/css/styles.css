@@ -163,6 +163,10 @@
     color: hsl(34, 67%, 23%);
 }
 
+.footer ul {
+    list-style-type: none;
+}
+
 .footer nav ul {
     display: flex;
 }
