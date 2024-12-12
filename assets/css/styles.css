@@ -184,7 +184,7 @@
 
 /* responsiveness */
 
-@media (max-width: 780px) {
+@media (max-width: 1080px) {
      .navContainer .container .navbar{
         display: flex;
         flex-direction: column;
